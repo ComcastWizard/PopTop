@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BalloonTargeter.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BalloonTargeter.cs" Line="17" Column="32" />
+      <File FileName="Assets\Scripts\BalloonBehavior.cs" Line="5" Column="47" />
+      <File FileName="Assets\Scripts\BalloonSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DartBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeathWallBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PointTracker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreDisplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HalfWayIndicator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
